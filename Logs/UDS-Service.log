@@ -19,44 +19,6 @@ Initialising UDS system complete:
   - Command buffer size: 8192
   - Hashmap size: 4194304
 Starting Unity Data Store Application
-[Error] Failed to remove data for hash 410c206fb974094b6960501eb29344db. Failure received from service
-0x00007ff64d6bce65 (Unity.DataStore) uds_wait_handle_complete
-0x00007ff64d680075 (Unity.DataStore) uds_cleanup
-0x00007ff64d66ee6f (Unity.DataStore) 
-0x00007ff64d67015d (Unity.DataStore) 
-0x00007ff64d657395 (Unity.DataStore) 
-0x00007ff64d65681a (Unity.DataStore) 
-0x00007ff64d656aff (Unity.DataStore) 
-0x00007ff64d6528b5 (Unity.DataStore) 
-0x00007ff64d6d88f4 (Unity.DataStore) uds_wait_handle_complete
-0x00007ff9f41ddda7 (KERNEL32) BaseThreadInitThunk
-0x00007ff9f4699c5c (ntdll) RtlUserThreadStart
-
-[Error] Failed to remove data for hash 410c206fb974094b6960501eb29344db. Failure received from service
-0x00007ff64d6bce65 (Unity.DataStore) uds_wait_handle_complete
-0x00007ff64d680075 (Unity.DataStore) uds_cleanup
-0x00007ff64d66ee6f (Unity.DataStore) 
-0x00007ff64d67015d (Unity.DataStore) 
-0x00007ff64d657395 (Unity.DataStore) 
-0x00007ff64d65681a (Unity.DataStore) 
-0x00007ff64d656aff (Unity.DataStore) 
-0x00007ff64d6528b5 (Unity.DataStore) 
-0x00007ff64d6d88f4 (Unity.DataStore) uds_wait_handle_complete
-0x00007ff9f41ddda7 (KERNEL32) BaseThreadInitThunk
-0x00007ff9f4699c5c (ntdll) RtlUserThreadStart
-
-[Error] Failed to remove data for hash 410c206fb974094b6960501eb29344db. Failure received from service
-0x00007ff64d6bce65 (Unity.DataStore) uds_wait_handle_complete
-0x00007ff64d680075 (Unity.DataStore) uds_cleanup
-0x00007ff64d66ee6f (Unity.DataStore) 
-0x00007ff64d67015d (Unity.DataStore) 
-0x00007ff64d657395 (Unity.DataStore) 
-0x00007ff64d65681a (Unity.DataStore) 
-0x00007ff64d656aff (Unity.DataStore) 
-0x00007ff64d6528b5 (Unity.DataStore) 
-0x00007ff64d6d88f4 (Unity.DataStore) uds_wait_handle_complete
-0x00007ff9f41ddda7 (KERNEL32) BaseThreadInitThunk
-0x00007ff9f4699c5c (ntdll) RtlUserThreadStart
-
 Unity Data Store Application Complete
+[Warning] Shutting down service while there are still connected clients, client count = 3
 Shut down UDS service system complete
