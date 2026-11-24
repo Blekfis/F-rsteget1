@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\F\u00F6rsteget Spel\\Spelet\\F-rsteget1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\f\u00F6rsteget spel\\spelet\\f-rsteget1\\assets\\scripts\\draggablecube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draggablecube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\f\u00F6rsteget spel\\spelet\\f-rsteget1\\assets\\scripts\\trashgrabber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trashgrabber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\f\u00F6rsteget spel\\spelet\\f-rsteget1\\assets\\scripts\\grabberequipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grabberequipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\f\u00F6rsteget spel\\spelet\\f-rsteget1\\assets\\scripts\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,42 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DraggableCube.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\F\u00F6rsteget Spel\\Spelet\\F-rsteget1\\Assets\\Scripts\\DraggableCube.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DraggableCube.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\F\u00F6rsteget Spel\\Spelet\\F-rsteget1\\Assets\\Scripts\\DraggableCube.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DraggableCube.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAkwGsAAAABAAAAAAAAAA==",
+              "Title": "SimplePatrol.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\F\u00F6rsteget Spel\\Spelet\\F-rsteget1\\Assets\\Scripts\\SimplePatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimplePatrol.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\F\u00F6rsteget Spel\\Spelet\\F-rsteget1\\Assets\\Scripts\\SimplePatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimplePatrol.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T13:40:02.091Z",
+              "WhenOpened": "2026-11-24T13:09:57.082Z",
               "EditorCaption": "",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TrashGrabber.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\F\u00F6rsteget Spel\\Spelet\\F-rsteget1\\Assets\\Scripts\\TrashGrabber.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TrashGrabber.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\F\u00F6rsteget Spel\\Spelet\\F-rsteget1\\Assets\\Scripts\\TrashGrabber.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TrashGrabber.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAkwJ4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T13:12:25.408Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GrabberEquipper.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\F\u00F6rsteget Spel\\Spelet\\F-rsteget1\\Assets\\Scripts\\GrabberEquipper.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GrabberEquipper.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\F\u00F6rsteget Spel\\Spelet\\F-rsteget1\\Assets\\Scripts\\GrabberEquipper.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GrabberEquipper.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T12:11:12.886Z",
               "OwnerCaption": "%2"
             }
           ]
